@@ -8,7 +8,7 @@ This project is an interactive, KPI-driven Power BI dashboard built to analyze t
 
 ## 📈 Key Metrics Tracked
 
-- **Total Sales**: $84,882  
+- **Total Sales**: $157K  
 - **Total Orders**: 33,527  
 - **Quantity Sold**: 48,233  
 - **Total Customers**: 14,673  
