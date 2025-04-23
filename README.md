@@ -64,6 +64,11 @@ This dashboard builds upon the logic and insights from my previous [SQL Analysis
 
 ## 📌 Screenshots
 
-> ![Dashboard Preview])
+> ![image alt]![Screenshot 2025-04-16 164349](https://github.com/user-attachments/assets/878e87aa-f8e0-44e4-8295-f28c869c5b2e)
+> ![image alt]![Screenshot 2025-04-16 171057](https://github.com/user-attachments/assets/5d034136-20a1-486e-baba-3664503d05e9)
+> ![image alt]![Screenshot 2025-04-16 171111](https://github.com/user-attachments/assets/c277265b-6389-4a16-8bca-7ba28c4b1459)
+
+
+
 
 
