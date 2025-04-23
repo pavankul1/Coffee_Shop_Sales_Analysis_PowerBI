@@ -58,7 +58,7 @@ This project is an interactive, KPI-driven Power BI dashboard built to analyze t
 
 ## 🔗 Related Projects
 
-This dashboard builds upon the logic and insights from my previous [SQL Analysis Project](#), showcasing the ability to extract, transform, and visualize business data across platforms.
+This dashboard builds upon the logic and insights from my previous [https://github.com/pavankul1/Coffee_Shop_Sales_Analysis_SQL], showcasing the ability to extract, transform, and visualize business data across platforms.
 
 ---
 
