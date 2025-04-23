@@ -64,9 +64,6 @@ This dashboard builds upon the logic and insights from my previous [SQL Analysis
 
 ## 📌 Screenshots
 
-> ![Dashboard Preview](dashboard-screenshot.png)
+> ![Dashboard Preview])
 
----
-
-## 📁 File Structure
 
